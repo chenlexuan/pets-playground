@@ -8,7 +8,7 @@ Privacy enhancing technologies (PETs) playground.
 - [ ] FL (Federated Learning)
 - [ ] HE (Homomorphic Encryption)
 - [ ] OT (Oblivious Transfer)
-- [ ] PRI (Private Information Retrival)
+- [ ] PRI (Private Information Retrieval)
 - [ ] PSI (Private Set Intersection)
 - [ ] SMPC (Secure Multi-Party Computation)
 - [ ] ZKP (Zero Knowledge Proofs)
