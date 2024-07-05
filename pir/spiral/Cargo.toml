@@ -1,0 +1,12 @@
+[package]
+name = "spiral-pir-demo"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+spiral-rs = { version = "0.2.1-alpha.2", features = ["server"] }
+spiral-server = "0.2.1-alpha.2"
+rand = { version = "0.8.5", features = ["small_rng"] }
+bzip2-rs = "0.1.2"
