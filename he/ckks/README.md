@@ -2,7 +2,7 @@
 
 The demo is an example about [CKKS](https://eprint.iacr.org/2016/421.pdf) Scheme, using the [lattigo](https://github.com/tuneinsight/lattigo) library.
 
-## Getting Stared
+## Getting Started
 
 Install dependencies:
 

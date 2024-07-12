@@ -2,7 +2,7 @@
 
 The demo is an example of using [OpenMined PSI](https://github.com/OpenMined/PSI) library in Go. Adjusted from the intergration test of the library's Go binding.
 
-## Getting Stared
+## Getting Started
 
 Install bazel 6.4.0: (different versions may experience issues)
 
