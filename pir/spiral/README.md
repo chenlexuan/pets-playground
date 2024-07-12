@@ -2,7 +2,7 @@
 
 The demo is an example about [Spiral PIR Scheme](https://eprint.iacr.org/2022/368), using the [Blyss SDK](https://github.com/blyssprivacy/sdk).
 
-## Getting Stared
+## Getting Started
 
 Run the demo:
 
