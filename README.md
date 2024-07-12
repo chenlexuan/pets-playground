@@ -7,10 +7,24 @@ Privacy enhancing technologies (PETs) playground.
 - [ ] DP (Differential Privacy)
 - [ ] FL (Federated Learning)
 - [ ] HE (Homomorphic Encryption)
+  - [x] CKKS
+  - [ ] TFHE
+  - [ ] B/FV
+  - [ ] BGV
 - [ ] OT (Oblivious Transfer)
 - [ ] PIR (Private Information Retrieval)
+  - [x] SpiralPIR
+  - [ ] DoublePIR
+  - [ ] SimplePIR
 - [ ] PSI (Private Set Intersection)
+  - [x] Mea68 (ECDH)
+  - [ ] KKRT16
 - [ ] SMPC (Secure Multi-Party Computation)
+  - [x] BGW
+  - [ ] ABY3
+  - [ ] Falcon
+  - [ ] FSS
+  - [ ] SPDZ
 - [ ] TEE (Trusted Execution Environment)
 - [ ] ZKP (Zero Knowledge Proofs)
 
