@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "bgw"
+version = "0.1.0"
+description = ""
+authors = ["chenlexuan <chenlexuan1995@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mpyc = "0.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
