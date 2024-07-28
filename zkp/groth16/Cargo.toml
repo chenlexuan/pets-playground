@@ -1,0 +1,12 @@
+[package]
+name = "groth16"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ff = "0.13"
+bellman = { version = "0.14", default-features = false, features = ["groth16"] }
+rand = "0.8"
+bls12_381 = "0.8"
