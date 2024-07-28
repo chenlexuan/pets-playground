@@ -27,6 +27,14 @@ Privacy enhancing technologies (PETs) playground.
   - [ ] SPDZ
 - [ ] TEE (Trusted Execution Environment)
 - [ ] ZKP (Zero Knowledge Proofs)
+  - [ ] Groth16
+  - [ ] ZK-STARK
+  - [ ] Bulletproofs
+  - [ ] Halo2
+  - [ ] Plonk
+  - [ ] Plonky2
+  - [ ] Spartan
+  - [ ] NOVA
 
 ## Reference
 
