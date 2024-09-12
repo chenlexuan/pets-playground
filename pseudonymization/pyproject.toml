@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "pseudonymization"
+version = "0.1.0"
+description = ""
+authors = ["chenlexuan <chenlexuan1995@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+presidio-analyzer = "^2.2.355"
+presidio-anonymizer = "^2.2.355"
+faker = "^28.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[[tool.poetry.source]]
+name = "ali"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+priority = "primary"
+
+
+[[tool.poetry.source]]
+name = "tencent"
+url = "https://mirrors.cloud.tencent.com/pypi/simple/"
+priority = "primary"
+
+
+[[tool.poetry.source]]
+name = "tsinghua"
+url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/"

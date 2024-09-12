@@ -13,6 +13,7 @@ Privacy enhancing technologies (PETs) playground.
   - [ ] B/FV
   - [ ] BGV
 - [ ] OT (Oblivious Transfer)
+- [x] Pseudonymization
 - [ ] PIR (Private Information Retrieval)
   - [x] SpiralPIR
   - [ ] DoublePIR
