@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fedavg"
+version = "0.1.0"
+description = ""
+authors = ["chenlexuan <chenlexuan1995@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+flwr = { extras = ["simulation"], version = ">=1.0,<2.0" }
+flwr-datasets = { extras = ["vision"], version = "0.2.0" }
+torch = "2.1.0"
+torchvision = "0.16.0"
+numpy = "1.24.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

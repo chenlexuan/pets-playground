@@ -6,6 +6,7 @@ Privacy enhancing technologies (PETs) playground.
 
 - [ ] DP (Differential Privacy)
 - [ ] FL (Federated Learning)
+  - [x] FedAvg
 - [ ] HE (Homomorphic Encryption)
   - [x] CKKS
   - [ ] TFHE
